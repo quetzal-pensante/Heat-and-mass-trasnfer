@@ -1,2 +1,2 @@
 # Heat-and-mass-trasnfer
-Calculation programs
+Calculation program for heat transfer analysis
